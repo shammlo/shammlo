@@ -6,13 +6,13 @@
 <a href="https://instagram.com/https://www.instagram.com/x.sham.x/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/x.sham.x/" height="30" width="40" /></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shammlo&label=Profile%20views&color=0e75b6&style=flat" alt="shammlo" /></p>
-   ![](https://visitor-badge.glitch.me/badge?page_id=shammlo.shammlo)
+   <!--- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shammlo.shammlo) -->
 <!--- ![](https://visitor-badge.glitch.me/badge?page_id=shammlo.shammlo) -->
 <br />
 
 Hi, I'm [Shammlo!](https://github.com/shammlo), A passionate frontend developer 🚀 from Kurdistan. currently learning React 🙍🏽‍♂️, bedsides programming, I enjoy reading, meditating and playing video games.
-
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 -   🔭 I’m currently working on [Covid-19 Tracker](https://github.com/shammlo/covid-19-Tracker/settings)
 
@@ -27,8 +27,8 @@ Hi, I'm [Shammlo!](https://github.com/shammlo), A passionate frontend developer 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
- <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
+ <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
  <a href="https://www.java.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
@@ -40,7 +40,6 @@ Hi, I'm [Shammlo!](https://github.com/shammlo), A passionate frontend developer 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shammlo&show_icons=true&locale=en&layout=compact" alt="shammlo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats-iota-self.vercel.app
-/api?username=shammlo&show_icons=true&locale=en" alt="shammlo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shammlo&theme=monokai&show_icons=true&locale=en" alt="shammlo" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shammlo&" alt="shammlo" /></p>
