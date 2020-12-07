@@ -1,4 +1,4 @@
-<h2 align="center">Hey, Welcome. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
+<h2>Hey, Welcome. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <br/>
 <p align="left">
 <a href="https://twitter.com/shamlo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shamlo_" height="30" width="40" /></a>
