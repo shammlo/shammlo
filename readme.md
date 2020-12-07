@@ -6,7 +6,7 @@
 <a href="https://instagram.com/https://www.instagram.com/x.sham.x/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/x.sham.x/" height="30" width="40" /></a>
 </p>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=shammlo&label=Profile%20views&color=0e75b6&style=flat" alt="shammlo" /></p>
-   ![visitors](https://visitor-badge.glitch.me/badge?page_id=shammlo.shammlo)
+   ![](https://visitor-badge.glitch.me/badge?page_id=shammlo.shammlo)
 <!--- ![](https://visitor-badge.glitch.me/badge?page_id=shammlo.shammlo) -->
 <br />
 
