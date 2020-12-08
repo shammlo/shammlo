@@ -11,6 +11,7 @@ Hi, I'm [Shammlo!](https://github.com/shammlo), A passionate frontend developer 
 <br />
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
 
 -   🔭 I’m currently working on [Covid-19 Tracker](https://github.com/shammlo/covid-19-Tracker/settings)
 
@@ -36,7 +37,7 @@ Hi, I'm [Shammlo!](https://github.com/shammlo), A passionate frontend developer 
 
 <p align="left"> <a href="https://twitter.com/shamlo_" target="blank"><img src="https://img.shields.io/twitter/follow/shamlo_?logo=twitter&style=for-the-badge" alt="shamlo_" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shammlo&show_icons=true&locale=en&layout=compact" alt="shammlo" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shammlo&layout=compact&theme=monokai)](https://github.com/shammlo/covid-19-Tracker)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shammlo&theme=monokai&show_icons=true&locale=en" alt="shammlo" /></p>
 
