@@ -7,9 +7,6 @@
 &nbsp;<img src="https://komarev.com/ghpvc/?username=shammlo&label=Profile%20views&color=0e75b6&style=flat" alt="shammlo" />
 </p>
 
-   <!--- ![visitors](https://visitor-badge.glitch.me/badge?page_id=shammlo.shammlo) -->
-<!--- ![](https://visitor-badge.glitch.me/badge?page_id=shammlo.shammlo) -->
-
 Hi, I'm [Shammlo!](https://github.com/shammlo), A passionate frontend developer 🚀 from Kurdistan. currently learning React 🙍🏽‍♂️, bedsides programming, I enjoy reading, meditating and playing video games.
 <br />
 <br />
