@@ -16,7 +16,7 @@ Hi, I'm [Shammlo!](https://github.com/shammlo), A passionate frontend developer 
 
 -   🔭 I just finished my recent project using Next and TypeScript [Covid-19 Tracker](https://github.com/shammlo/Covid19-Tracker)
 
--   🌱 I’m currently learning **React** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+-   🌱 I’m currently learning **Node.js, Express.js, and MongoDB** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
 -   💬 Ask me about **Ask me about anything, I am happy to help.**
 
