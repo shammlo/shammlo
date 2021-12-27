@@ -1,7 +1,7 @@
 <h2>Hey, Welcome. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
 <br/>
 <p align="left" color="#ffffff">
-<a href="https://twitter.com/shamlo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shamlo_" height="30" width="40" /></a>
+ <a href="https://twitter.com/shamlo_" target="blank"><img src="https://img.shields.io/twitter/follow/shamlo_?logo=twitter&style=for-the-badge" alt="shamlo_" /></a>
 
 &nbsp;<img src="https://komarev.com/ghpvc/?username=shammlo&label=Profile%20views&color=0e75b6&style=flat" alt="shammlo" />
 </p>
