@@ -15,11 +15,13 @@ Hi, I'm [Shammlo!](https://github.com/shammlo), A passionate frontend developer 
 
 -   🔭 I just finished my recent project using Next and TypeScript [Covid-19 Tracker](https://github.com/shammlo/Covid19-Tracker)
 
--   🌱 I’m currently learning **Node.js, Express.js, and MongoDB** <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+- 🌱 I’m currently learning **Back-end: Node <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>, Express <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>, MongoDB <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>, Mongoose <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>, MySQL <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>.**
 
--   💬 Ask me about **Ask me about anything, I am happy to help.**
+- 💬 Ask me about **Sass, JavaScript, TypeScript, React, Next, Redux, Node, Express.**
 
 -   📫 How to reach me **[@Shamlo\_](https://twitter.com/Shamlo_);**
+
+- 📄 Know about my experiences [My Resume](https://my.indeed.com/api/3/profile/files/resume/mostRecent)
 
 -   ⚡ Fun fact **I like reading and meditating.**
 
