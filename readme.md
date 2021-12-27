@@ -2,8 +2,7 @@
 <br/>
 <p align="left" color="#ffffff">
 <a href="https://twitter.com/shamlo_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="shamlo_" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/shamlo.redzx/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/shamlo.redzx/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/x.sham.x/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/x.sham.x/" height="30" width="40" /></a>
+
 &nbsp;<img src="https://komarev.com/ghpvc/?username=shammlo&label=Profile%20views&color=0e75b6&style=flat" alt="shammlo" />
 </p>
 
