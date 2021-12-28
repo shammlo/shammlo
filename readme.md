@@ -6,7 +6,7 @@
 &nbsp;<img src="https://komarev.com/ghpvc/?username=shammlo&label=Profile%20views&color=0e75b6&style=flat" alt="shammlo" />
 </p>
 
-Hi, I'm [Shammlo!](https://github.com/shammlo), A passionate frontend developer 🚀 from Kurdistan. currently learning more about React.js and Next.js with TypeScript 🙍🏽‍♂️, bedsides programming, I enjoy reading, meditating and playing video games.
+Hi, I'm [Shamlo!](https://github.com/shammlo), A passionate frontend developer 🚀 from Kurdistan. currently learning more about React.js and Next.js with TypeScript 🙍🏽‍♂️, bedsides programming, I enjoy reading, meditating and playing video games.
 <br />
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
