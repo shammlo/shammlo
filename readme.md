@@ -1,12 +1,12 @@
 <h2>Hey, Welcome. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h2>
-<br/>
+<!-- <br/> -->
 <p align="left" color="#ffffff">
- <a href="https://twitter.com/shamlo_" target="blank"><img src="https://img.shields.io/twitter/follow/shamlo_?logo=twitter&style=for-the-badge" alt="shamlo_" /></a>
+ <!-- <a href="https://twitter.com/shamlo_" target="blank"><img src="https://img.shields.io/twitter/follow/shamlo_?logo=twitter&style=for-the-badge" alt="shamlo_" /></a> -->
 
 &nbsp;<img src="https://komarev.com/ghpvc/?username=shammlo&label=Profile%20views&color=0e75b6&style=flat" alt="shammlo" />
 </p>
 
-Hi, I'm [Shamlo!](https://github.com/shammlo), A passionate frontend developer 🚀 from Kurdistan, currently learning about back-end technologies to be a full stack developer🙍🏽‍♂️, bedsides programming, I enjoy reading, meditating and playing video games.
+Hi, I'm [Shamlo!](https://github.com/shammlo), A passionate full-stack engineer 🚀 from Kurdistan, currently learning more about full-stack technologies and practicing MERN stack🙍🏽‍♂️, bedsides programming, I enjoy reading, meditating and playing video games.
 <br />
 <br />
 <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
@@ -15,9 +15,9 @@ Hi, I'm [Shamlo!](https://github.com/shammlo), A passionate frontend developer �
 
 -   🔭 I just finished my recent project using Next and TypeScript [Covid-19 Tracker](https://github.com/shammlo/Covid19-Tracker)
 
-- 🌱 I’m currently learning **Back-end: Node <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>, Express <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>, MongoDB <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>, Mongoose <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>, MySQL <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>.**
+- 🌱 I’m currently learning more about **Back-end: Node <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>, Express <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"></code>, MongoDB <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"></code>, Mongoose <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png"></code>, MySQL <code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>.**
 
-- 💬 Ask me about **Sass, JavaScript, TypeScript, React, Next, Redux, Node, Express.**
+- 💬 Ask me about **Sass, JavaScript, TypeScript, React, Next, Redux, Node, Express., MongoDB, Mongoose.**
 
 -   📫 How to reach me **[@Shamlo\_](https://twitter.com/Shamlo_);**
 
@@ -47,7 +47,8 @@ Hi, I'm [Shamlo!](https://github.com/shammlo), A passionate frontend developer �
 
 </p>
 
-<p align="left"> <a href="https://twitter.com/shamlo_" target="blank"><img src="https://img.shields.io/twitter/follow/shamlo_?logo=twitter&style=for-the-badge" alt="shamlo_" /></a> </p>
+<br>
+<!-- <p align="left"> <a href="https://twitter.com/shamlo_" target="blank"><img src="https://img.shields.io/twitter/follow/shamlo_?logo=twitter&style=for-the-badge" alt="shamlo_" /></a> </p> -->
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shammlo&layout=compact&theme=monokai)](https://github.com/shammlo/covid-19-Tracker)
 
