@@ -52,6 +52,3 @@ src="https://img.shields.io/github/followers/shammlo?logo=github&style=for-the-b
 <a href="http://www.github.com/shammlo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shammlo&stroke=ffffff&background=1c1917&ring=10b981&fire=10b981&currStreakNum=ffffff&currStreakLabel=10b981&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 <a href="http://www.github.com/shammlo"><img src="https://activity-graph.herokuapp.com/graph?username=shammlo&bg_color=1c1917&color=ffffff&line=10b981&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-<br /><br />
