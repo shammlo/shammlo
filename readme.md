@@ -9,7 +9,7 @@ A passionate full-stack engineer 🚀 from Kurdistan, currently focused on full-
 
 * 🌍  I'm based in Kurdistan.
 
-* 🖥️  See my portfolio at <a href="http://shamlo.vercel.app" target="_blank">Portfolio</a>  
+* 🖥️  See my portfolio at <a href="https://shamlo.dev">Portfolio</a>  
 
 * ✉️  Contact me at [zothstic@gmail.com](mailto:zothstic@gmail.com)
 
