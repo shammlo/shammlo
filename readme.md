@@ -19,7 +19,7 @@ A passionate full-stack engineer 🚀 from Kurdistan, currently focused on full-
 
 * 🤝  Open to collaborating on frontend and backend projects, especially with TypeScript, NextJs, NestJs, and more.
 
-* 📄  Check out my experiences: <a href="https://shamlo.vercel.app/files/Shamlo_Ameer.pdf" target="_blank">Resume</a>
+* 📄  Check out my experiences: <a href="https://shamlo.dev/shamlo-ameer-resume.pdf" target="_blank">Resume</a>
 
 * ⚡  Fun fact: I love combining meditation with focused coding sessions to boost creativity and problem-solving.
 
