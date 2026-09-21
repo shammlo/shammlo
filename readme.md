@@ -32,7 +32,7 @@ Each one links to a full case study: the architecture, the decisions, and the on
 
 * 🌍  Based in Erbil, Kurdistan
 * 🖥️  <a href="https://shamlo.dev">shamlo.dev</a> — projects, docs, tools, and writing
-* 📄  Resume: <a href="https://shamlo.dev/shamlo-ameer-resume.pdf" target="_blank">PDF</a>
+* 📄  Resume: <a href="https://shamlo.dev/resume" target="_blank">PDF</a>
 * ✉️  [zothstic@gmail.com](mailto:zothstic@gmail.com)
 * 💼  [LinkedIn](https://www.linkedin.com/in/shamlo-ameer-126289142/) · [X](https://www.twitter.com/Shamlo_)
 * 🦀  Currently learning Rust
