@@ -45,71 +45,71 @@ Each one links to a full case study: the architecture, the decisions, and the on
 
 #### Programming Languages
 <p>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=javascript" width="40" /></a>
-  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="https://go-skill-icons.vercel.app/api/icons?i=typescript" width="40" /></a>
-  <a href="https://nodejs.org/" title="Node.js"><img src="https://go-skill-icons.vercel.app/api/icons?i=nodejs" width="40" /></a>
-  <a href="https://bun.sh/" title="Bun.js"><img src="https://go-skill-icons.vercel.app/api/icons?i=bun" width="40" /></a>
-  <a href="https://www.lua.org/" title="Lua"><img src="https://go-skill-icons.vercel.app/api/icons?i=lua" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="https://go-skill-icons.vercel.app/api/icons?i=html" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=css" width="40" /></a>
-  <a href="https://sass-lang.com/" title="SCSS / SASS"><img src="https://go-skill-icons.vercel.app/api/icons?i=scss" width="40" /></a>
-  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="https://go-skill-icons.vercel.app/api/icons?i=bash" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img src="icons/javascript.svg" width="40" /></a>
+  <a href="https://www.typescriptlang.org/" title="TypeScript"><img src="icons/typescript.svg" width="40" /></a>
+  <a href="https://nodejs.org/" title="Node.js"><img src="icons/nodejs.svg" width="40" /></a>
+  <a href="https://bun.sh/" title="Bun.js"><img src="icons/bun.svg" width="40" /></a>
+  <a href="https://www.lua.org/" title="Lua"><img src="icons/lua.svg" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML"><img src="icons/html.svg" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS"><img src="icons/css.svg" width="40" /></a>
+  <a href="https://sass-lang.com/" title="SCSS / SASS"><img src="icons/scss.svg" width="40" /></a>
+  <a href="https://www.gnu.org/software/bash/" title="Bash"><img src="icons/bash.svg" width="40" /></a>
 </p>
 
 #### Frontend: Frameworks, Libraries & Services
 <p>
-  <a href="https://reactjs.org/" title="React"><img src="https://go-skill-icons.vercel.app/api/icons?i=react" width="40" /></a>
-  <a href="https://reactnative.dev/" title="React Native"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactnative" width="40" /></a>
-  <a href="https://nextjs.org/" title="Next.js"><img src="https://go-skill-icons.vercel.app/api/icons?i=nextjs" width="40" /></a>
-  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="https://go-skill-icons.vercel.app/api/icons?i=tailwindcss" width="40" /></a>
-  <a href="https://redux.js.org/" title="Redux"><img src="https://go-skill-icons.vercel.app/api/icons?i=redux" width="40" /></a>
-  <a href="https://tanstack.com/query/latest" title="React Query"><img src="https://go-skill-icons.vercel.app/api/icons?i=reactquery" width="40" /></a>
-  <a href="https://www.chartjs.org/" title="Chart.js"><img src="https://go-skill-icons.vercel.app/api/icons?i=chartjs" width="40" /></a>
-  <a href="https://authjs.dev/" title="Auth.js"><img src="https://go-skill-icons.vercel.app/api/icons?i=authjs" width="40" /></a>
-  <a href="https://www.apollographql.com/" title="Apollo"><img src="https://go-skill-icons.vercel.app/api/icons?i=apollo" width="40" /></a>
-  <a href="https://zustand-demo.pmnd.rs/" title="Zustand"><img src="https://go-skill-icons.vercel.app/api/icons?i=zustand" width="40" /></a>
-  <a href="https://ui.shadcn.com/" title="Shadcn"><img src="https://go-skill-icons.vercel.app/api/icons?i=shadcn" width="40" /></a>
+  <a href="https://reactjs.org/" title="React"><img src="icons/react.svg" width="40" /></a>
+  <a href="https://reactnative.dev/" title="React Native"><img src="icons/reactnative.svg" width="40" /></a>
+  <a href="https://nextjs.org/" title="Next.js"><img src="icons/nextjs.svg" width="40" /></a>
+  <a href="https://tailwindcss.com/" title="Tailwind CSS"><img src="icons/tailwindcss.svg" width="40" /></a>
+  <a href="https://redux.js.org/" title="Redux"><img src="icons/redux.svg" width="40" /></a>
+  <a href="https://tanstack.com/query/latest" title="React Query"><img src="icons/reactquery.svg" width="40" /></a>
+  <a href="https://www.chartjs.org/" title="Chart.js"><img src="icons/chartjs.svg" width="40" /></a>
+  <a href="https://authjs.dev/" title="Auth.js"><img src="icons/authjs.svg" width="40" /></a>
+  <a href="https://www.apollographql.com/" title="Apollo"><img src="icons/apollo.svg" width="40" /></a>
+  <a href="https://zustand-demo.pmnd.rs/" title="Zustand"><img src="icons/zustand.svg" width="40" /></a>
+  <a href="https://ui.shadcn.com/" title="Shadcn"><img src="icons/shadcn.svg" width="40" /></a>
 </p>
 
 #### Backend: Frameworks, Databases, Libraries & Services
 <p>
-  <a href="https://expressjs.com/" title="Express.js"><img src="https://go-skill-icons.vercel.app/api/icons?i=expressjs" width="40" /></a>
-  <a href="https://nestjs.com/" title="NestJS"><img src="https://go-skill-icons.vercel.app/api/icons?i=nestjs" width="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" title="WebSockets"><img src="https://go-skill-icons.vercel.app/api/icons?i=websocket" width="40" /></a>
-  <a href="https://kafka.apache.org/" title="Apache Kafka"><img src="https://go-skill-icons.vercel.app/api/icons?i=kafka" width="40" /></a>
-  <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="https://go-skill-icons.vercel.app/api/icons?i=rabbitmq" width="40" /></a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://go-skill-icons.vercel.app/api/icons?i=postgresql" width="40" /></a>
-  <a href="https://www.mongodb.com/" title="MongoDB"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongodb" width="40" /></a>
-  <a href="https://www.prisma.io/" title="Prisma ORM"><img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" width="40" /></a>
-  <a href="https://mongoosejs.com/" title="Mongoose"><img src="https://go-skill-icons.vercel.app/api/icons?i=mongoose" width="40" /></a>
-  <a href="https://orm.drizzle.team/" title="Drizzle ORM"><img src="https://go-skill-icons.vercel.app/api/icons?i=drizzle" width="40" /></a>
-  <a href="https://graphql.org/" title="GraphQL"><img src="https://go-skill-icons.vercel.app/api/icons?i=graphql" width="40" /></a>
-  <a href="https://socket.io/" title="Socketio"><img src="https://go-skill-icons.vercel.app/api/icons?i=socketio" width="40" /></a>
+  <a href="https://expressjs.com/" title="Express.js"><img src="icons/expressjs.svg" width="40" /></a>
+  <a href="https://nestjs.com/" title="NestJS"><img src="icons/nestjs.svg" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API" title="WebSockets"><img src="icons/websocket.svg" width="40" /></a>
+  <a href="https://kafka.apache.org/" title="Apache Kafka"><img src="icons/kafka.svg" width="40" /></a>
+  <a href="https://www.rabbitmq.com/" title="RabbitMQ"><img src="icons/rabbitmq.svg" width="40" /></a>
+  <a href="https://www.postgresql.org/" title="PostgreSQL"><img src="icons/postgresql.svg" width="40" /></a>
+  <a href="https://www.mongodb.com/" title="MongoDB"><img src="icons/mongodb.svg" width="40" /></a>
+  <a href="https://www.prisma.io/" title="Prisma ORM"><img src="icons/prisma.svg" width="40" /></a>
+  <a href="https://mongoosejs.com/" title="Mongoose"><img src="icons/mongoose.svg" width="40" /></a>
+  <a href="https://orm.drizzle.team/" title="Drizzle ORM"><img src="icons/drizzle.svg" width="40" /></a>
+  <a href="https://graphql.org/" title="GraphQL"><img src="icons/graphql.svg" width="40" /></a>
+  <a href="https://socket.io/" title="Socketio"><img src="icons/socketio.svg" width="40" /></a>
 </p>
 
 #### General Tooling & DevOps
 <p>
-  <a href="https://pnpm.io/" title="pnpm"><img src="https://go-skill-icons.vercel.app/api/icons?i=pnpm" width="40" /></a>
-  <a href="https://neovim.io/" title="Neovim"><img src="https://go-skill-icons.vercel.app/api/icons?i=neovim" width="40" /></a>
-  <a href="https://www.linux.org/" title="Linux"><img src="https://go-skill-icons.vercel.app/api/icons?i=linux" width="40" /></a>
-  <a href="https://www.postman.com/" title="Postman"><img src="https://go-skill-icons.vercel.app/api/icons?i=postman" width="40" /></a>
-  <a href="https://www.docker.com/" title="Docker"><img src="https://go-skill-icons.vercel.app/api/icons?i=docker" width="40" /></a>
-  <a href="https://kubernetes.io/" title="Kubernetes"><img src="https://go-skill-icons.vercel.app/api/icons?i=kubernetes" width="40" /></a>
-  <a href="https://www.jenkins.io/" title="Jenkins"><img src="https://go-skill-icons.vercel.app/api/icons?i=jenkins" width="40" /></a>
-  <a href="https://git-scm.com/" title="Git"><img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="40" /></a>
-  <a href="https://nginx.org/" title="NGINX"><img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" width="40" /></a>
-  <a href="https://webpack.js.org/" title="Webpack"><img src="https://go-skill-icons.vercel.app/api/icons?i=webpack" width="40" /></a>
+  <a href="https://pnpm.io/" title="pnpm"><img src="icons/pnpm.svg" width="40" /></a>
+  <a href="https://neovim.io/" title="Neovim"><img src="icons/neovim.svg" width="40" /></a>
+  <a href="https://www.linux.org/" title="Linux"><img src="icons/linux.svg" width="40" /></a>
+  <a href="https://www.postman.com/" title="Postman"><img src="icons/postman.svg" width="40" /></a>
+  <a href="https://www.docker.com/" title="Docker"><img src="icons/docker.svg" width="40" /></a>
+  <a href="https://kubernetes.io/" title="Kubernetes"><img src="icons/kubernetes.svg" width="40" /></a>
+  <a href="https://www.jenkins.io/" title="Jenkins"><img src="icons/jenkins.svg" width="40" /></a>
+  <a href="https://git-scm.com/" title="Git"><img src="icons/git.svg" width="40" /></a>
+  <a href="https://nginx.org/" title="NGINX"><img src="icons/nginx.svg" width="40" /></a>
+  <a href="https://webpack.js.org/" title="Webpack"><img src="icons/webpack.svg" width="40" /></a>
 </p>
 
 #### Testing & Quality Assurance
 <p>
-  <a href="https://jestjs.io/" title="Jest"><img src="https://go-skill-icons.vercel.app/api/icons?i=jest" width="40" /></a>
-  <a href="https://www.cypress.io/" title="Cypress"><img src="https://go-skill-icons.vercel.app/api/icons?i=cypress" width="40" /></a>
-  <a href="https://playwright.dev/" title="Playwright"><img src="https://go-skill-icons.vercel.app/api/icons?i=playwright" width="40" /></a>
-  <a href="https://testing-library.com/" title="Testing Library"><img src="https://go-skill-icons.vercel.app/api/icons?i=testinglibrary" width="40" /></a>
-  <a href="https://www.selenium.dev/" title="Selenium"><img src="https://go-skill-icons.vercel.app/api/icons?i=selenium" width="40" /></a>
-  <a href="https://pptr.dev/" title="Puppeteer"><img src="https://go-skill-icons.vercel.app/api/icons?i=puppeteer" width="40" /></a>
-  <a href="https://mochajs.org/" title="Mocha"><img src="https://go-skill-icons.vercel.app/api/icons?i=mocha" width="40" /></a>
+  <a href="https://jestjs.io/" title="Jest"><img src="icons/jest.svg" width="40" /></a>
+  <a href="https://www.cypress.io/" title="Cypress"><img src="icons/cypress.svg" width="40" /></a>
+  <a href="https://playwright.dev/" title="Playwright"><img src="icons/playwright.svg" width="40" /></a>
+  <a href="https://testing-library.com/" title="Testing Library"><img src="icons/testinglibrary.svg" width="40" /></a>
+  <a href="https://www.selenium.dev/" title="Selenium"><img src="icons/selenium.svg" width="40" /></a>
+  <a href="https://pptr.dev/" title="Puppeteer"><img src="icons/puppeteer.svg" width="40" /></a>
+  <a href="https://mochajs.org/" title="Mocha"><img src="icons/mocha.svg" width="40" /></a>
 </p>
 
 ---
